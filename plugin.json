@@ -1,0 +1,14 @@
+{
+	"description": "<p>HDrepo<p>", 
+	"author": "Nguyen Tran Trung (trungk43@yahoo.com)", 
+	"homepage": "http://www.hdrepo.com", 
+	"title": "HDrepo", 
+	"synopsis": "HDrepo: Real HD", 
+	"version": "2.4.4", 
+	"file": "hdrepo.js", 
+	"showtimeVersion": "4.1", 
+	"type": "javascript", 
+	"id": "HDrepo", 
+	"icon": "logo.png", 
+	"category": "video"
+}
